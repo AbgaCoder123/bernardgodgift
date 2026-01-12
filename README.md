@@ -72,3 +72,8 @@ A simple system for tracking customer debts for small businesses.
 ---
 
 ⭐️ *I’m open to junior / intern / freelance opportunities.*
+
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+
